@@ -1,0 +1,8 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/sanmathi/Desktop/RR - Programming Challenge/Challenge1'
+relocations:
+  - { offsetInCU: 0xE4, offset: 0xE4, size: 0x8, addend: 0x0, symName: __Z20compute_travel_costsPiiPS_, symObjAddr: 0x0, symBinAddr: 0x100000C3C, symSize: 0x171 }
+  - { offsetInCU: 0x733, offset: 0x733, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x171, symBinAddr: 0x100000DAD, symSize: 0x19C }
+  - { offsetInCU: 0x868, offset: 0x868, size: 0x8, addend: 0x0, symName: __Z20compute_travel_costsPiiPS_, symObjAddr: 0x0, symBinAddr: 0x100000C3C, symSize: 0x171 }
+...

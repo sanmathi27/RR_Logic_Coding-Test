@@ -1,0 +1,13 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/sanmathi/Desktop/RR-ProgrammingChallenge/Challenge2'
+relocations:
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: __Z10createNodei, symObjAddr: 0x0, symBinAddr: 0x100000858, symSize: 0x60 }
+  - { offsetInCU: 0x776, offset: 0x776, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2D3, symBinAddr: 0x100000B2B, symSize: 0x1DF }
+  - { offsetInCU: 0x7E4, offset: 0x7E4, size: 0x8, addend: 0x0, symName: __Z7inorderP4Node, symObjAddr: 0x281, symBinAddr: 0x100000AD9, symSize: 0x52 }
+  - { offsetInCU: 0x815, offset: 0x815, size: 0x8, addend: 0x0, symName: __Z6searchP4Nodei, symObjAddr: 0x218, symBinAddr: 0x100000A70, symSize: 0x69 }
+  - { offsetInCU: 0x85E, offset: 0x85E, size: 0x8, addend: 0x0, symName: __Z7findMinP4Node, symObjAddr: 0x1EF, symBinAddr: 0x100000A47, symSize: 0x29 }
+  - { offsetInCU: 0x898, offset: 0x898, size: 0x8, addend: 0x0, symName: __Z10deleteNodeP4Nodei, symObjAddr: 0xDA, symBinAddr: 0x100000932, symSize: 0x115 }
+  - { offsetInCU: 0x933, offset: 0x933, size: 0x8, addend: 0x0, symName: __Z6insertP4Nodei, symObjAddr: 0x60, symBinAddr: 0x1000008B8, symSize: 0x7A }
+  - { offsetInCU: 0x977, offset: 0x977, size: 0x8, addend: 0x0, symName: __Z10createNodei, symObjAddr: 0x0, symBinAddr: 0x100000858, symSize: 0x60 }
+...
